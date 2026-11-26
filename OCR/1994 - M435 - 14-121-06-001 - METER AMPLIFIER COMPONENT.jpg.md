@@ -21,7 +21,7 @@ Wiki page: [M435](../../../../PAGES/M435.md)
 - **Words (OCR):** 39 in 35 lines: SENSITMTY STRAP · 150 OHMS · 600 OHMS · WBS · R17 · CAL · CANADA · SW1 · SENS · 50k · OdBm · 14-121
 - **Title block:** (341, 30)–(432, 288) mm: WBS · R17 · CAL · CANADA · 14-121 · ISSUE 3 · P2 · 22/25 · +22/25 · C8 · 10/25 · 22228 · WES WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1994 - M435 - 14-121-06-001 - METER AMPLIFIER COMPONENT (traced).json](../SCHEMATICS/1994%20-%20M435%20-%2014-121-06-001%20-%20METER%20AMPLIFIER%20COMPONENT%20(traced).json) (the CAD file: `1994 - M435 - 14-121-06-001 - METER AMPLIFIER COMPONENT (traced).dxf`).
+Every curve, box, word and wire group: [1994 - M435 - 14-121-06-001 - METER AMPLIFIER COMPONENT (traced).json](../SCHEMATICS/1994%20-%20M435%20-%2014-121-06-001%20-%20METER%20AMPLIFIER%20COMPONENT%20%28traced%29.json) (the CAD file: `1994 - M435 - 14-121-06-001 - METER AMPLIFIER COMPONENT (traced).dxf`).
 
 ## Full text
 

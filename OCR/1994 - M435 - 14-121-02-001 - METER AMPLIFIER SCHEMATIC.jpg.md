@@ -23,7 +23,7 @@ Wiki page: [M435](../../../../PAGES/M435.md)
 - **Title block:** (291, 35)–(413, 54) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 54 connected wire groups from 260 runs; labelled ends: 247 mm → 22/25, R23, R24, 470k; 201 mm → R3, 15k, R13, sk; 190 mm → LM31ZLZ, R25, CRI, 1N4OO3; 170 mm → R5, 270k, sk, 15k; 157 mm → LM31ZLZ, R25, +22v, R26
 
-Every curve, box, word and wire group: [1994 - M435 - 14-121-02-001 - METER AMPLIFIER SCHEMATIC (traced).json](../SCHEMATICS/1994%20-%20M435%20-%2014-121-02-001%20-%20METER%20AMPLIFIER%20SCHEMATIC%20(traced).json) (the CAD file: `1994 - M435 - 14-121-02-001 - METER AMPLIFIER SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1994 - M435 - 14-121-02-001 - METER AMPLIFIER SCHEMATIC (traced).json](../SCHEMATICS/1994%20-%20M435%20-%2014-121-02-001%20-%20METER%20AMPLIFIER%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1994 - M435 - 14-121-02-001 - METER AMPLIFIER SCHEMATIC (traced).dxf`).
 
 ## Full text
 
