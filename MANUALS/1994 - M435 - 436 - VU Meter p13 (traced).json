@@ -1,0 +1,69 @@
+{
+ "drawing": "Modules/METER/M435/MANUALS/1994 - M435 - 436 - VU Meter.pdf",
+ "page": 13,
+ "version": 1,
+ "trace": "_traces/87f7508312d5b0a0-p13.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1369, 2000],
+  "mm": [295.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "13", "pages": "15"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [8.0, 1.3, 291.0, 420.8],
+ "outlines": {
+  "line": {"rings": 28, "straight": {"n": 1008, "mm": 3724.5}, "curved": {"n": 157, "mm": 262.5}},
+  "text": {"rings": 170, "straight": {"n": 1621, "mm": 1919.3}, "curved": {"n": 445, "mm": 706.8}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [133.0, 296.2, 159.8, 328.9], "w": 26.8, "h": 32.7, "from": "ring"},
+  {"mm": [134.3, 315.2, 158.7, 327.1], "w": 24.4, "h": 11.9, "from": "ring"}
+ ],
+ "text": {
+  "words": 33,
+  "lines": [
+   {"mm": [161.3, 370.9, 187.6, 377.9], "text": "LAYoUT"},
+   {"mm": [108.4, 369.6, 158.5, 377.8], "text": "P2 CONNECTOR"},
+   {"mm": [112.3, 357.3, 159.6, 364.3], "text": "ML3s/ML36 vu"},
+   {"mm": [162.4, 355.8, 185.0, 364.0], "text": "METEZ"},
+   {"mm": [174.0, 315.4, 225.4, 322.9], "text": "LAMP VOL TAGE"},
+   {"mm": [119.0, 305.7, 131.9, 310.5], "text": "Ca"},
+   {"mm": [174.7, 302.3, 193.0, 308.7], "text": "LAMP"},
+   {"mm": [195.8, 302.3, 223.2, 309.2], "text": "COMMON"},
+   {"mm": [244.8, 305.5, 267.9, 312.5], "text": "937 34"},
+   {"mm": [52.9, 291.5, 74.5, 298.4], "text": "2vi9c"},
+   {"mm": [103.0, 263.8, 136.7, 270.8], "text": "Tu9i UV"},
+   {"mm": [209.0, 264.7, 218.7, 270.0], "text": "JV"},
+   {"mm": [93.9, 247.2, 123.1, 254.2], "text": "TYPicAL"},
+   {"mm": [126.3, 245.7, 204.5, 254.3], "text": "MATiNG CONNECITOR_J2"},
+   {"mm": [30.7, 219.8, 73.2, 226.7], "text": "CRIMP IYPE"},
+   {"mm": [158.3, 205.5, 261.5, 216.3], "text": "S  (Mini-Latch Housing)"},
+   {"mm": [39.3, 206.2, 57.0, 213.1], "text": "BERG"},
+   {"mm": [100.8, 206.2, 133.2, 213.1], "text": "65039-035"},
+   {"mm": [39.3, 199.7, 57.0, 206.2], "text": "BERG"},
+   {"mm": [100.8, 199.7, 131.7, 206.7], "text": "Pv-L7712"},
+   {"mm": [187.6, 199.7, 258.2, 206.7], "text": "(Mini-PV Terminals)"},
+   {"mm": [253.5, 182.4, 271.8, 188.9], "text": "7338"},
+   {"mm": [253.5, 175.3, 271.8, 181.8], "text": "3438"},
+   {"mm": [177.5, 147.9, 210.9, 154.4], "text": "010-2.280"},
+   {"mm": [254.1, 148.5, 271.8, 155.0], "text": "9930"},
+   {"mm": [145.7, 0.4, 156.1, 6.9], "text": "7-2"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 296 × 432 mm, 1369 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 8–291 mm across, 1–421 mm up",
+  "- **Outlines:** line 28 rings, 1,008 straight (3,724 mm) / 157 curved (262 mm); text 170 rings, 1,621 straight (1,919 mm) / 445 curved (707 mm)",
+  "- **Closed boxes:** 2",
+  "- **Words (OCR):** 33 in 26 lines: LAYoUT · P2 CONNECTOR · ML3s/ML36 vu · METEZ · LAMP VOL TAGE · Ca · LAMP · COMMON · 937 34 · 2vi9c · Tu9i UV · JV"
+ ]
+}

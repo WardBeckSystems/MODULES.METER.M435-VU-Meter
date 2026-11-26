@@ -1,0 +1,63 @@
+{
+ "drawing": "Modules/METER/M435/MANUALS/1994 - M435 - 436 - VU Meter.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/87f7508312d5b0a0-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1397, 2000],
+  "mm": [301.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "15"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [7.1, 3.0, 294.7, 413.7],
+ "outlines": {
+  "line": {"rings": 5, "straight": {"n": 439, "mm": 2886.3}, "curved": {"n": 42, "mm": 73.8}},
+  "text": {"rings": 122, "straight": {"n": 1727, "mm": 2372.3}, "curved": {"n": 456, "mm": 734.7}},
+  "tb": {"rings": 3, "straight": {"n": 6, "mm": 4.3}, "curved": {"n": 6, "mm": 7.8}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [101.7, 403.9, 272.7, 413.8], "text": "WARD-BECK SYSTEMS LTD_"},
+   {"mm": [31.5, 394.2, 275.1, 410.5], "text": "WBS 841 prOGRESS AVENUE, SCAABOAOUGH; ONTARIO Mih2x4"},
+   {"mm": [100.8, 392.5, 154.8, 399.0], "text": "FAX: 416/438-3865"},
+   {"mm": [198.6, 393.2, 275.1, 398.4], "text": "TELEPHONE: 416/438-6550"},
+   {"mm": [137.3, 229.1, 187.4, 239.4], "text": "M435/M436"},
+   {"mm": [138.2, 211.6, 185.9, 220.2], "text": "VU METER"},
+   {"mm": [222.8, 51.6, 282.2, 60.0], "text": "MANUAL ISSUEE"},
+   {"mm": [227.8, 37.8, 259.7, 46.2], "text": "April 1994"},
+   {"mm": [33.9, 2.2, 93.3, 8.6], "text": "MW9IOOL /M435&436.WP"}
+  ]
+ },
+ "title_block": {
+  "mm": [25.5, 42.9, 288.2, 422.3],
+  "from": "title-block words (training set)",
+  "text": [
+   "WARD-BECK SYSTEMS LTD_",
+   "WBS 841 prOGRESS AVENUE, SCAABOAOUGH; ONTARIO Mih2x4",
+   "FAX: 416/438-3865",
+   "TELEPHONE: 416/438-6550",
+   "M435/M436",
+   "VU METER",
+   "MANUAL ISSUEE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 302 × 432 mm, 1397 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 7–295 mm across, 3–414 mm up",
+  "- **Outlines:** line 5 rings, 439 straight (2,886 mm) / 42 curved (73.8 mm); text 122 rings, 1,727 straight (2,372 mm) / 456 curved (735 mm); tb 3 rings, 6 straight (4.3 mm) / 6 curved (7.8 mm)",
+  "- **Words (OCR):** 13 in 9 lines: WARD-BECK SYSTEMS LTD_ · WBS 841 prOGRESS AVENUE, SCAABOAOUGH; ONTARIO Mih2x4 · FAX: 416/438-3865 · TELEPHONE: 416/438-6550 · M435/M436 · VU METER · MANUAL ISSUEE · April 1994 · MW9IOOL /M435&436.WP",
+  "- **Title block:** (26, 43)–(288, 422) mm: WARD-BECK SYSTEMS LTD_ · WBS 841 prOGRESS AVENUE, SCAABOAOUGH; ONTARIO Mih2x4 · FAX: 416/438-3865 · TELEPHONE: 416/438-6550 · M435/M436 · VU METER · MANUAL ISSUEE"
+ ]
+}

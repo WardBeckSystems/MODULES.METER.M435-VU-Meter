@@ -1,0 +1,48 @@
+{
+ "drawing": "Modules/METER/M435/MANUALS/1994 - M435 - 436 - VU Meter (2).pdf",
+ "page": 5,
+ "version": 1,
+ "trace": "_traces/424c4d7f62c18307-p5.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1387, 2000],
+  "mm": [299.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "5", "pages": "15"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [8.0, 2.8, 293.2, 413.9],
+ "outlines": {
+  "line": {"rings": 170, "straight": {"n": 2975, "mm": 7270.3}, "curved": {"n": 551, "mm": 898.5}},
+  "text": {"rings": 27, "straight": {"n": 334, "mm": 374.1}, "curved": {"n": 76, "mm": 118.8}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [201.0, 236.0, 203.2, 239.2], "w": 2.2, "h": 3.2, "from": "ring"}],
+ "text": {
+  "words": 17,
+  "lines": [
+   {"mm": [9.5, 407.2, 62.8, 412.9], "text": "WAFl ·8I! CK"},
+   {"mm": [93.3, 407.2, 127.2, 412.9], "text": "MII LTD."},
+   {"mm": [123.9, 363.8, 168.4, 368.8], "text": "NS TA LA ION"},
+   {"mm": [109.0, 349.8, 180.7, 355.3], "text": "M435 /M436 VU Mill!!."},
+   {"mm": [247.0, 59.8, 265.8, 68.0], "text": "ps"},
+   {"mm": [236.8, 49.7, 256.5, 60.0], "text": "BS"},
+   {"mm": [216.8, 29.6, 233.4, 36.1], "text": "tp"},
+   {"mm": [210.5, 23.1, 229.3, 29.6], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 300 × 432 mm, 1387 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 8–293 mm across, 3–414 mm up",
+  "- **Outlines:** line 170 rings, 2,975 straight (7,270 mm) / 551 curved (898 mm); text 27 rings, 334 straight (374 mm) / 76 curved (119 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 17 in 8 lines: WAFl ·8I! CK · MII LTD. · NS TA LA ION · M435 /M436 VU Mill!!. · ps · BS · tp · ht"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "drawing": "Modules/METER/M435/MANUALS/1994 - M435 - 436 - VU Meter (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/424c4d7f62c18307-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1397, 2000],
+  "mm": [301.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "15"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [7.1, 3.0, 294.7, 413.7],
+ "outlines": {
+  "line": {"rings": 70, "straight": {"n": 1385, "mm": 3955.3}, "curved": {"n": 347, "mm": 532.2}},
+  "text": {"rings": 61, "straight": {"n": 829, "mm": 1313.2}, "curved": {"n": 181, "mm": 303.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 34,
+  "lines": [
+   {"mm": [23.1, 393.4, 274.2, 410.9], "text": "(VVBS) _OGR ESS AvENUE SCA. F180R0UGH. ON TA IO 2X<1"},
+   {"mm": [102.6, 404.4, 270.3, 412.1], "text": "WA RD -BECK SYS TEMS TD"},
+   {"mm": [102.1, 392.7, 153.5, 396.8], "text": "FA ,.'BJ.a&' 3a8!1"},
+   {"mm": [200.1, 392.5, 274.6, 397.1], "text": "TEL EPl-IONE \\ei .38-e!l~"},
+   {"mm": [138.4, 229.9, 186.1, 237.6], "text": "M435 {M436"},
+   {"mm": [138.8, 210.9, 187.8, 219.1], "text": "VU METER"},
+   {"mm": [259.1, 70.6, 277.4, 78.8], "text": "ca"},
+   {"mm": [248.7, 60.2, 267.5, 68.4], "text": "ps"},
+   {"mm": [238.4, 50.1, 258.0, 60.4], "text": "BS"},
+   {"mm": [229.5, 38.9, 258.4, 44.4], "text": "April 1994"},
+   {"mm": [218.3, 29.8, 234.9, 36.3], "text": "tp"},
+   {"mm": [211.8, 23.3, 230.6, 29.8], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 302 × 432 mm, 1397 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 7–295 mm across, 3–414 mm up",
+  "- **Outlines:** line 70 rings, 1,385 straight (3,955 mm) / 347 curved (532 mm); text 61 rings, 829 straight (1,313 mm) / 181 curved (303 mm)",
+  "- **Words (OCR):** 34 in 12 lines: (VVBS) _OGR ESS AvENUE SCA. F180R0UGH. ON TA IO 2X<1 · WA RD -BECK SYS TEMS TD · FA ,.'BJ.a&' 3a8!1 · TEL EPl-IONE \\ei .38-e!l~ · M435 {M436 · VU METER · ca · ps · BS · April 1994 · tp · ht"
+ ]
+}

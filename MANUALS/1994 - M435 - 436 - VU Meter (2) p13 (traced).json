@@ -1,0 +1,60 @@
+{
+ "drawing": "Modules/METER/M435/MANUALS/1994 - M435 - 436 - VU Meter (2).pdf",
+ "page": 13,
+ "version": 1,
+ "trace": "_traces/424c4d7f62c18307-p13.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1369, 2000],
+  "mm": [295.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "13", "pages": "15"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [8.0, 1.3, 291.0, 420.8],
+ "outlines": {
+  "line": {"rings": 135, "straight": {"n": 2152, "mm": 4953.6}, "curved": {"n": 455, "mm": 744.4}},
+  "text": {"rings": 64, "straight": {"n": 554, "mm": 642.6}, "curved": {"n": 168, "mm": 277.2}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [44.7, 415.6, 49.2, 420.6], "w": 4.5, "h": 5.0, "from": "ring"},
+  {"mm": [133.0, 296.3, 160.0, 328.8], "w": 27.0, "h": 32.5, "from": "ring", "words": ["E8"]}
+ ],
+ "text": {
+  "words": 34,
+  "lines": [
+   {"mm": [110.5, 370.7, 187.8, 376.5], "text": "1>2 CONNECTOFI LAYOUT"},
+   {"mm": [114.0, 356.0, 128.7, 363.2], "text": "M05"},
+   {"mm": [152.0, 356.5, 185.2, 362.0], "text": "VU METEi'\\"},
+   {"mm": [133.9, 286.3, 226.0, 327.3], "text": "E8 LAMP COMMON"},
+   {"mm": [197.5, 247.0, 203.2, 252.7], "text": "J2"},
+   {"mm": [95.9, 247.0, 122.6, 252.3], "text": "TYP IC AL"},
+   {"mm": [144.2, 247.0, 191.9, 252.3], "text": "NG CONNECTOR"},
+   {"mm": [40.8, 206.4, 57.6, 212.2], "text": "BEAG"},
+   {"mm": [101.9, 206.4, 129.1, 212.2], "text": "650 39 _03"},
+   {"mm": [189.3, 206.2, 242.7, 211.5], "text": "(Mln L.lch Hou"},
+   {"mm": [102.3, 199.9, 126.5, 205.2], "text": "PV _4771"},
+   {"mm": [40.8, 199.9, 52.0, 205.0], "text": "BER"},
+   {"mm": [192.2, 199.5, 242.9, 204.8], "text": "Ml ni _PV Term ln"},
+   {"mm": [243.8, 59.2, 262.3, 67.1], "text": "ps"},
+   {"mm": [233.6, 49.0, 252.8, 59.1], "text": "BS"},
+   {"mm": [214.0, 29.4, 230.4, 35.6], "text": "tp"},
+   {"mm": [207.5, 22.9, 226.0, 29.1], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 296 × 432 mm, 1369 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 8–291 mm across, 1–421 mm up",
+  "- **Outlines:** line 135 rings, 2,152 straight (4,954 mm) / 455 curved (744 mm); text 64 rings, 554 straight (643 mm) / 168 curved (277 mm)",
+  "- **Closed boxes:** 2; named: E8",
+  "- **Words (OCR):** 34 in 17 lines: 1>2 CONNECTOFI LAYOUT · M05 · VU METEi'\\ · E8 LAMP COMMON · J2 · TYP IC AL · NG CONNECTOR · BEAG · 650 39 _03 · (Mln L.lch Hou · PV _4771 · BER"
+ ]
+}

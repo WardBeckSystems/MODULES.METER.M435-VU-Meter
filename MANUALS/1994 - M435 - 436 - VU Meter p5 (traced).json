@@ -1,0 +1,61 @@
+{
+ "drawing": "Modules/METER/M435/MANUALS/1994 - M435 - 436 - VU Meter.pdf",
+ "page": 5,
+ "version": 1,
+ "trace": "_traces/87f7508312d5b0a0-p5.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1387, 2000],
+  "mm": [299.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "5", "pages": "15"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [8.0, 2.8, 293.2, 413.9],
+ "outlines": {
+  "line": {"rings": 89, "straight": {"n": 2221, "mm": 6414.6}, "curved": {"n": 319, "mm": 521.3}},
+  "text": {"rings": 108, "straight": {"n": 1088, "mm": 1229.8}, "curved": {"n": 308, "mm": 496.0}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [201.0, 236.0, 203.2, 239.2], "w": 2.2, "h": 3.2, "from": "ring"}],
+ "text": {
+  "words": 25,
+  "lines": [
+   {"mm": [8.6, 407.6, 63.0, 414.6], "text": "WAAD-BECK"},
+   {"mm": [65.2, 407.6, 126.3, 415.1], "text": "ByBTems LTD_"},
+   {"mm": [119.2, 363.8, 168.2, 370.7], "text": "NSTALLATION"},
+   {"mm": [108.0, 349.3, 155.4, 357.0], "text": "M435/M436 vu"},
+   {"mm": [158.0, 348.7, 181.1, 356.8], "text": "METER"},
+   {"mm": [170.8, 330.5, 181.6, 336.1], "text": "10"},
+   {"mm": [268.4, 329.9, 282.2, 337.1], "text": "927"},
+   {"mm": [53.1, 316.5, 67.6, 322.0], "text": "2.0'"},
+   {"mm": [162.4, 316.3, 184.8, 322.1], "text": "7t= `"},
+   {"mm": [259.5, 309.2, 271.8, 315.6], "text": "91!"},
+   {"mm": [72.5, 269.0, 83.3, 273.8], "text": "7U"},
+   {"mm": [211.8, 235.1, 220.4, 239.4], "text": "DIA"},
+   {"mm": [202.5, 195.2, 209.4, 199.5], "text": "201"},
+   {"mm": [178.8, 161.7, 193.9, 166.0], "text": "50 DIA"},
+   {"mm": [222.6, 156.7, 255.6, 162.0], "text": "PANEL cutout"},
+   {"mm": [178.3, 157.4, 195.2, 161.7], "text": "PLACES"},
+   {"mm": [239.2, 150.3, 258.6, 155.1], "text": "OUT inE"},
+   {"mm": [125.4, 142.3, 135.8, 146.6], "text": "2.07"},
+   {"mm": [129.5, 84.2, 161.3, 90.7], "text": "Fig 3-2"},
+   {"mm": [99.7, 74.5, 191.3, 82.9], "text": "M436 Mounting Dimensions"},
+   {"mm": [137.5, 1.7, 149.4, 8.2], "text": "3-2"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 300 × 432 mm, 1387 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 8–293 mm across, 3–414 mm up",
+  "- **Outlines:** line 89 rings, 2,221 straight (6,415 mm) / 319 curved (521 mm); text 108 rings, 1,088 straight (1,230 mm) / 308 curved (496 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 25 in 21 lines: WAAD-BECK · ByBTems LTD_ · NSTALLATION · M435/M436 vu · METER · 10 · 927 · 2.0' · 7t= ` · 91! · 7U · DIA"
+ ]
+}

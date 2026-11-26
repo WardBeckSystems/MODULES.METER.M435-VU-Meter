@@ -1,0 +1,72 @@
+{
+ "drawing": "Modules/METER/M435/MANUALS/1994 - M435 - 436 - VU Meter (2).pdf",
+ "page": 12,
+ "version": 1,
+ "trace": "_traces/424c4d7f62c18307-p12.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1350, 2000],
+  "mm": [291.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "12", "pages": "15"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [6.3, 3.2, 284.6, 417.1],
+ "outlines": {
+  "line": {"rings": 229, "straight": {"n": 2898, "mm": 6218.0}, "curved": {"n": 619, "mm": 1009.4}},
+  "text": {"rings": 171, "straight": {"n": 1583, "mm": 1989.2}, "curved": {"n": 413, "mm": 672.9}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [128.2, 247.0, 164.1, 320.4], "w": 35.8, "h": 73.4, "from": "ring", "words": ["10", "10"]},
+  {"mm": [129.8, 265.3, 144.7, 277.2], "w": 14.9, "h": 11.9, "from": "ring"},
+  {"mm": [145.3, 265.1, 162.6, 277.0], "w": 17.3, "h": 11.9, "from": "ring"},
+  {"mm": [129.8, 248.5, 144.9, 264.3], "w": 15.1, "h": 15.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 61,
+  "lines": [
+   {"mm": [22.0, 410.6, 96.9, 416.2], "text": ";::;C·SECl< YSTEM"},
+   {"mm": [107.1, 410.6, 123.7, 416.2], "text": "LT=."},
+   {"mm": [107.3, 368.1, 177.9, 373.1], "text": "PI CONNECTOR LAYOU"},
+   {"mm": [110.5, 354.5, 180.5, 359.5], "text": "M435 M10 36 VU METE!'l"},
+   {"mm": [30.7, 307.2, 119.0, 312.3], "text": "VU METER SUPPLY VOL TAG"},
+   {"mm": [172.1, 307.2, 244.2, 312.3], "text": "LAMP SUPPLY VOL TAG"},
+   {"mm": [42.3, 293.4, 118.3, 298.7], "text": "EXT ERNA MET ER DR IV"},
+   {"mm": [151.8, 293.6, 157.2, 298.2], "text": "10"},
+   {"mm": [172.5, 293.4, 251.5, 298.4], "text": "EXT ERNAL ME TER DR IVE"},
+   {"mm": [58.9, 252.6, 121.3, 257.6], "text": "VU MET ER COMMON"},
+   {"mm": [152.6, 252.4, 158.5, 257.7], "text": "10"},
+   {"mm": [92.6, 212.9, 197.1, 217.9], "text": "TYPICAL MATING CONNECTOR Jl"},
+   {"mm": [38.6, 185.9, 54.4, 190.9], "text": "BERG"},
+   {"mm": [99.3, 185.7, 128.2, 191.0], "text": "65646 _010"},
+   {"mm": [188.3, 185.2, 199.5, 190.5], "text": "Ml\"i"},
+   {"mm": [214.2, 185.2, 238.1, 190.5], "text": "ld, Hou"},
+   {"mm": [38.6, 179.0, 54.4, 184.0], "text": "BERG"},
+   {"mm": [103.4, 179.2, 127.2, 184.5], "text": "V_Io7712"},
+   {"mm": [188.3, 178.8, 199.5, 184.0], "text": "MI\"i"},
+   {"mm": [217.8, 178.8, 244.0, 184.0], "text": "Term i\"el"},
+   {"mm": [188.3, 152.2, 227.3, 157.5], "text": "Culc;kie 11,1"},
+   {"mm": [252.2, 152.2, 272.9, 157.5], "text": "Fema le"},
+   {"mm": [240.3, 58.3, 258.4, 66.2], "text": "ps"},
+   {"mm": [230.4, 48.4, 249.4, 58.2], "text": "BS"},
+   {"mm": [210.9, 28.9, 227.1, 35.2], "text": "tp"},
+   {"mm": [204.7, 22.7, 222.8, 28.9], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [199.0, 256.4], "r": 1.2, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 292 × 432 mm, 1350 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–285 mm across, 3–417 mm up",
+  "- **Outlines:** line 229 rings, 2,898 straight (6,218 mm) / 619 curved (1,009 mm); text 171 rings, 1,583 straight (1,989 mm) / 413 curved (673 mm)",
+  "- **Closed boxes:** 4; named: 10 10",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 61 in 26 lines: ;::;C·SECl< YSTEM · LT=. · PI CONNECTOR LAYOU · M435 M10 36 VU METE!'l · VU METER SUPPLY VOL TAG · LAMP SUPPLY VOL TAG · EXT ERNA MET ER DR IV · 10 · EXT ERNAL ME TER DR IVE · VU MET ER COMMON · 10 · TYPICAL MATING CONNECTOR Jl"
+ ]
+}
