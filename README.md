@@ -1,17 +1,17 @@
-# M435 · Meter
+# M435 VU Meter · Meter
 
 Ward-Beck Systems M435, 1994|27. Wiki page: [M435 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M435.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 12 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 0 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 108 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 21 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 107 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 5 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 18 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -58,8 +58,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeGtQQndPRk9BTEU/view?resourcekey=0-GMfqXhmf_jT8QMNPr27_9Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeGtQQndPRk9BTEU&resourcekey=0-GMfqXhmf_jT8QMNPr27_9Q" width="240" alt="1994 - M435 - 14-121-02-001 - METER AMPLIFIER SCHEMATIC.jpg"></a><br><sub>1994|27 · 14-121-02-001 - METER AMPLIFIER SCHEMATIC · <a href="SCHEMATICS/1994%20-%20M435%20-%2014-121-02-001%20-%20METER%20AMPLIFIER%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRFdNaDBQRF9OQnc/view?resourcekey=0-hJcQYp4ByKJu7vqi0myXbg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRFdNaDBQRF9OQnc&resourcekey=0-hJcQYp4ByKJu7vqi0myXbg" width="240" alt="1994 - M435 - 14-121-06-001 - METER AMPLIFIER COMPONENT.jpg"></a><br><sub>1994|27 · 14-121-06-001 - METER AMPLIFIER COMPONENT · <a href="SCHEMATICS/1994%20-%20M435%20-%2014-121-06-001%20-%20METER%20AMPLIFIER%20COMPONENT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `19xx - 14-121-02-001.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -78,7 +76,7 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUEhCN0dWZjdaQ1U/view?resourcekey=0-aM483nTtRI15zQzKlbmXdQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUEhCN0dWZjdaQ1U&resourcekey=0-aM483nTtRI15zQzKlbmXdQ" width="240" alt="1994 - M435 - 436 - P013 - 7-2.jpg"></a><br><sub>1994|27 · 436 - P013 - 7-2</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKaEpkTjZBU3hpeGc/view?resourcekey=0-ViKDdSVc4HgrnQyTBKQjIA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKaEpkTjZBU3hpeGc&resourcekey=0-ViKDdSVc4HgrnQyTBKQjIA" width="240" alt="1994 - M435 - 436 - VU Meter (2).pdf"></a><br><sub>1994|27 · 436 - VU Meter (2)</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeFh1TTk0U3MyTEE/view?resourcekey=0-EY-v1ChGAb236gT3gcqu1A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeFh1TTk0U3MyTEE&resourcekey=0-EY-v1ChGAb236gT3gcqu1A" width="240" alt="1994 - M435 - 436 - VU Meter.pdf"></a><br><sub>1994|27 · 436 - VU Meter</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `M435-436 - P005 - 3-2(1).jpg`, `M435-436 - P005 - 3-2.jpg`, `MP1-MP2-MP3-MP4 - P030 - M435-436 - 3-1.jpg`
+Not on Google Drive yet: `MP1-MP2-MP3-MP4 - P030 - M435-436 - 3-1.jpg`
 
 ## KiCad
 
@@ -88,6 +86,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1994 - M435 - 436 - VU Meter p14.kicad_sch](KICAD/1994%20-%20M435%20-%20436%20-%20VU%20Meter%20p14.kicad_sch)
 - [19xx - 14-121-02-001.kicad_sch](KICAD/19xx%20-%2014-121-02-001.kicad_sch)
 - [M435.kicad_sym](KICAD/M435.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
