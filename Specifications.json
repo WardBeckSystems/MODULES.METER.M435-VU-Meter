@@ -1,0 +1,244 @@
+{
+ "module": "M435",
+ "title": "",
+ "source": {
+  "file": "MANUALS/1994 - M435 - 436 - P002 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.93,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Input sensitivity",
+   "key": "input_sensitivity",
+   "text": "0,+4,+8,+14 dBu (ref. 600 ohm source) 0, +4,+8, +14 dBu (ref. 150 ohm source). Vernier range: dB min",
+   "quantities": [
+    {
+     "value": 14,
+     "unit": "dBu"
+    },
+    {
+     "value": 600,
+     "unit": "ohm"
+    },
+    {
+     "value": 14,
+     "unit": "dBu"
+    },
+    {
+     "value": 150,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "+/-0.25 dB 30 Hz to 15 kHz",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 15,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "Greater than 75 dB below 0 VU reading:",
+   "quantities": [
+    {
+     "value": 75,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Total harmonic distortion",
+   "key": "total_harmonic_distortion",
+   "text": "Less than 0.259 30 Hz to 15 kHz:",
+   "quantities": [
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 15,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms or 150 ohms, balanced / unbalanced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 150,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Greater than 20K ohms",
+   "key": "greater_than_20k_ohms",
+   "text": "",
+   "items": [
+    {
+     "name": "Maximum input",
+     "text": "+24 dBu:",
+     "quantities": [
+      {
+       "value": 24,
+       "unit": "dBu"
+      }
+     ],
+     "key": "maximum_input"
+    }
+   ]
+  },
+  {
+   "name": "Meter ballistics",
+   "key": "meter_ballistics",
+   "text": "to ANSI standard #Cl6.5."
+  },
+  {
+   "name": "Amplifier headroom",
+   "key": "amplifier_headroom",
+   "text": "10 dB above",
+   "quantities": [
+    {
+     "value": 10,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Vu reading",
+   "key": "vu_reading",
+   "text": "",
+   "items": [
+    {
+     "name": "Power requirements",
+     "text": "+24 to 28 volts regulated or unregulated. 15 mA nominal for SA14-121 amplifier assembly. 80 mA nominal for LED illumination",
+     "quantities": [
+      {
+       "from": 24,
+       "to": 28,
+       "unit": "volts"
+      },
+      {
+       "value": 15,
+       "unit": "mA"
+      },
+      {
+       "value": 80,
+       "unit": "mA"
+      }
+     ],
+     "key": "power_requirement"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "50 degrees Celsius.",
+   "quantities": [
+    {
+     "value": 50,
+     "unit": "degrees Celsius"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "M435 3.90\" wide x 2.70\" high x 2.75\" decp_ (99 mm x 69 mm x 70 mm) M436 4.50\" wide * 2.90\" high x 2.75\" deep (114 mm x 74 mm x 70 mm): SAI4-121 (Amplifier assembly only) 4.00\" wide 2.60\" high (102 mm * 66 mm)",
+   "quantities": [
+    {
+     "value": 3.9,
+     "unit": "\""
+    },
+    {
+     "value": 2.7,
+     "unit": "\""
+    },
+    {
+     "value": 2.75,
+     "unit": "\""
+    },
+    {
+     "value": 99,
+     "unit": "mm"
+    },
+    {
+     "value": 69,
+     "unit": "mm"
+    },
+    {
+     "value": 70,
+     "unit": "mm"
+    },
+    {
+     "value": 4.5,
+     "unit": "\""
+    },
+    {
+     "value": 2.9,
+     "unit": "\""
+    },
+    {
+     "value": 2.75,
+     "unit": "\""
+    },
+    {
+     "value": 114,
+     "unit": "mm"
+    },
+    {
+     "value": 74,
+     "unit": "mm"
+    },
+    {
+     "value": 70,
+     "unit": "mm"
+    },
+    {
+     "value": 4,
+     "unit": "\""
+    },
+    {
+     "value": 2.6,
+     "unit": "\""
+    },
+    {
+     "value": 102,
+     "unit": "mm"
+    },
+    {
+     "value": 66,
+     "unit": "mm"
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "M435 6.8 0z. (194g) net: M436 7.3 oz. (206g) net: SA14-121 (Amplifier assembly only) (298) net:"
+  }
+ ]
+}
