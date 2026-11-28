@@ -55,7 +55,7 @@ SALL-LLAMPLIEIER_ASSEMBLY (Refer_to_Schematic B1A-12L-02-0QL Input Power_Supply_
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeGtQQndPRk9BTEU/view?resourcekey=0-GMfqXhmf_jT8QMNPr27_9Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeGtQQndPRk9BTEU&resourcekey=0-GMfqXhmf_jT8QMNPr27_9Q" width="240" alt="1994 - M435 - 14-121-02-001 - METER AMPLIFIER SCHEMATIC.jpg"></a><br><sub>1994|27 · 14-121-02-001 - METER AMPLIFIER SCHEMATIC · <a href="SCHEMATICS/1994%20-%20M435%20-%2014-121-02-001%20-%20METER%20AMPLIFIER%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRFdNaDBQRF9OQnc/view?resourcekey=0-hJcQYp4ByKJu7vqi0myXbg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRFdNaDBQRF9OQnc&resourcekey=0-hJcQYp4ByKJu7vqi0myXbg" width="240" alt="1994 - M435 - 14-121-06-001 - METER AMPLIFIER COMPONENT.jpg"></a><br><sub>1994|27 · 14-121-06-001 - METER AMPLIFIER COMPONENT · <a href="SCHEMATICS/1994%20-%20M435%20-%2014-121-06-001%20-%20METER%20AMPLIFIER%20COMPONENT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeGtQQndPRk9BTEU/view?resourcekey=0-GMfqXhmf_jT8QMNPr27_9Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeGtQQndPRk9BTEU&resourcekey=0-GMfqXhmf_jT8QMNPr27_9Q" width="240" alt="1994 - M435 - [DWG 14-121-02-001] - METER AMPLIFIER SCHEMATIC.jpg"></a><br><sub>1994|27 · 14-121-02-001 - METER AMPLIFIER SCHEMATIC · <a href="SCHEMATICS/1994%20-%20M435%20-%20%5BDWG%2014-121-02-001%5D%20-%20METER%20AMPLIFIER%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRFdNaDBQRF9OQnc/view?resourcekey=0-hJcQYp4ByKJu7vqi0myXbg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRFdNaDBQRF9OQnc&resourcekey=0-hJcQYp4ByKJu7vqi0myXbg" width="240" alt="1994 - M435 - [DWG 14-121-06-001] - METER AMPLIFIER COMPONENT.jpg"></a><br><sub>1994|27 · 14-121-06-001 - METER AMPLIFIER COMPONENT · <a href="SCHEMATICS/1994%20-%20M435%20-%20%5BDWG%2014-121-06-001%5D%20-%20METER%20AMPLIFIER%20COMPONENT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 ## Pinouts
@@ -82,9 +82,9 @@ Not on Google Drive yet: `MP1-MP2-MP3-MP4 - P030 - M435-436 - 3-1.jpg`
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
-- [1994 - M435 - 14-121-02-001 - METER AMPLIFIER SCHEMATIC.kicad_sch](KICAD/1994%20-%20M435%20-%2014-121-02-001%20-%20METER%20AMPLIFIER%20SCHEMATIC.kicad_sch)
-- [1994 - M435 - 436 - VU Meter p14.kicad_sch](KICAD/1994%20-%20M435%20-%20436%20-%20VU%20Meter%20p14.kicad_sch)
-- [19xx - 14-121-02-001.kicad_sch](KICAD/19xx%20-%2014-121-02-001.kicad_sch)
+- [1994 - M435 - [DWG 14-121-02-001] - METER AMPLIFIER SCHEMATIC.kicad_sch](KICAD/1994%20-%20M435%20-%20%5BDWG%2014-121-02-001%5D%20-%20METER%20AMPLIFIER%20SCHEMATIC.kicad_sch)
+- [1994 - M435 - [DWG 14-121-02-001] - 436 - VU Meter p14.kicad_sch](KICAD/1994%20-%20M435%20-%20%5BDWG%2014-121-02-001%5D%20-%20436%20-%20VU%20Meter%20p14.kicad_sch)
+- [19xx - [DWG 14-121-02-001].kicad_sch](KICAD/19xx%20-%20%5BDWG%2014-121-02-001%5D.kicad_sch)
 - [M435.kicad_sym](KICAD/M435.kicad_sym)
 - [index.html](KICAD/index.html)
 
