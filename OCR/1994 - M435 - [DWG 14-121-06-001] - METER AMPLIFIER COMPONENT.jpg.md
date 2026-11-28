@@ -1,5 +1,5 @@
 # 1994 - M435 - 14-121-06-001 - METER AMPLIFIER COMPONENT.jpg
-Wiki page: [M435](../../../../PAGES/M435.md)
+Wiki page: [M435](../)
 
 
 - **Year:** 1994 (module estimate (manual_issue))

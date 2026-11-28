@@ -1,6 +1,6 @@
 # M435 VU Meter · Meter
 
-Ward-Beck Systems M435, 1994|27. Wiki page: [M435 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M435.html)
+Ward-Beck Systems M435, 1994|27. Wiki page: [M435 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.M435-VU-Meter/)
 
 | Folder | What is in it | Files |
 |---|---|---|

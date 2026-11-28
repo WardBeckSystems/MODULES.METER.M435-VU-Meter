@@ -1,5 +1,5 @@
 # 1994 - M435 - 14-121-02-001 - METER AMPLIFIER SCHEMATIC.jpg
-Wiki page: [M435](../../../../PAGES/M435.md)
+Wiki page: [M435](../)
 
 
 - **Year:** 1994 (module estimate (manual_issue))
